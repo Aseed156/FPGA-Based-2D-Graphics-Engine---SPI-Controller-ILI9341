@@ -65,7 +65,7 @@ currentPixel → framebuffer
 
 ## Target Hardware
 
-- Intel Cyclone V FPGA (5CSEMA5F31C6)
+- Intel Cyclone V SE 5CSEBA6U23I7
 - ILI9341 320×240 SPI TFT LCD
 - Synthesized resource usage: ~5.7% logic, ~13.8% DSP blocks, Fmax ~89 MHz
 
